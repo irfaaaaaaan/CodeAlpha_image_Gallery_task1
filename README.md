@@ -1,8 +1,11 @@
 CodeAlpha_image_Gallery_task1
+
 📸 Image Gallery
+
 A Image Gallery project built using HTML CSS JAVASCRIPT as part of the CodeAlpha Internship Task.
 
-🔧 Technologies Used
+🔧 Technologies Used:
+
 HTML
 CSS
 JAVASCRIPT
@@ -15,4 +18,5 @@ Or download/clone the repository and open index.html in any browser
 📌 Features
 
 Clean image gallery layout
+
 Easy to understand and customize
