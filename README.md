@@ -10,9 +10,9 @@ HTML
 CSS
 JAVASCRIPT
 
-Live Demo:
+Click for Live Demo:
 👉 https://irfaaaaaaan.github.io/CodeAlpha_image_Gallery_task1/
 
-Or download/clone the repository and open index.html in any browser
+
 
 
