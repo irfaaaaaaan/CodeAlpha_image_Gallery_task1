@@ -15,8 +15,4 @@ Live Demo:
 
 Or download/clone the repository and open index.html in any browser
 
-📌 Features
 
-Clean image gallery layout
-
-Easy to understand and customize
